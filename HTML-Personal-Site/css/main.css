@@ -1,0 +1,9 @@
+html {
+    font-family: Montserrat;
+}
+
+img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 100%;
+}
